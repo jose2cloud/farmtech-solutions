@@ -2,7 +2,7 @@
 # Script R que usa APENAS dados exportados do Python
 # VERSÃO ADAPTADA PARA RSTUDIO
 
-setwd("C:/Users/josel/OneDrive/Materiais 2022/AI FIAP/Fase 1/Fazenda/Integrados2")
+setwd("caminho local")
 
 # Limpar ambiente
 rm(list = ls())
