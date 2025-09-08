@@ -70,5 +70,5 @@ Desenvolvido como projeto acadêmico para demonstrar integração Python-R em co
 
 ## 📝 Licença
 
-Projeto acadêmico - FIAP 2024
+Projeto acadêmico - FIAP 2025
 
